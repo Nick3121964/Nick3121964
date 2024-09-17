@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vendas ao meu perfil 💙
+Meu nomw é Nicole
 
-<!--
-**Nick3121964/Nick3121964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou me desnvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+## Você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+nicolefreitas.310309@gmail.com
+
+![]()![image](https://github.com/user-attachments/assets/edd0140f-a51e-44b6-8ca1-e8a8c5a4fabd)
+
+
+
